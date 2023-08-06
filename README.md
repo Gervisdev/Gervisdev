@@ -5,11 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gervisdev" alt="gervisdev" /></a> </p>
 
-- 🔭 I’m currently working on **Food**
-
+- 🔭 I’m currently working on impact social
+  
 - 📫 How to reach me **gervisandjoua@gmail.com**
-
+  
 - ⚡ Fun fact **Basket,Book.**
+- 🎵 I love Rock and Indie folk music
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
