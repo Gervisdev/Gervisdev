@@ -10,7 +10,7 @@
 - 📫 How to reach me **gervisandjoua@gmail.com**
   
 - ⚡ Fun fact **Basket,Book.**
-- 🎵 I love Rock and Indie folk music
+- 🎵 I love all music
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
