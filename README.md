@@ -9,7 +9,7 @@
   
 - 📫 How to reach me **gervisandjoua@gmail.com**
   
-- ⚡ Fun fact **Basket,Book.**
+- ⚡ Fun fact **Cars,Book.**
 - 🎵 I love african music
 
 <h3 align="left">Connect with me:</h3>
