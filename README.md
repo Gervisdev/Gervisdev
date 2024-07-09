@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gervis Andjoua</h1>
-<h3 align="center">Student of development web</h3>
+<h3 align="center">Developer web full stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gervisdev&label=Profile%20views&color=0e75b6&style=flat" alt="gervisdev" /> </p>
 
@@ -10,7 +10,7 @@
 - 📫 How to reach me **gervisandjoua@gmail.com**
   
 - ⚡ Fun fact **Basket,Book.**
-- 🎵 I love all music
+- 🎵 I love african music
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
