@@ -8,9 +8,11 @@
 - 🔭 I’m currently working on impact social
   
 - 📫 How to reach me **gervisandjoua@gmail.com**
+- https://gervisnze.vercel.app/
+- https://x.com/AndjouaNze
   
 - ⚡ Fun fact **Cars,Book.**
-- 🎵 I love african music
+- 🎵 I love rock music
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
