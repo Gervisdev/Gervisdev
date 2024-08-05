@@ -12,7 +12,7 @@
 - https://x.com/AndjouaNze
   
 - ⚡ Fun fact **Cars,Book.**
-- 🎵 I love HIP-HOP music
+- 🎵 I love African music
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
