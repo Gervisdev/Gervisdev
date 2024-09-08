@@ -11,7 +11,7 @@
 - https://gervisnze.vercel.app/
 - https://x.com/AndjouaNze
   
-- ⚡ Fun fact **Cars,Book.**
+
 - 🎵 I love African music
 
 <h3 align="left">Connect with me:</h3>
