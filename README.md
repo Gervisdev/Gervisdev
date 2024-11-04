@@ -5,14 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gervisdev" alt="gervisdev" /></a> </p>
 
-- 🔭 I’m currently working on impact social
+- 🔭 I’m currently 
   
 - 📫 How to reach me **gervisandjoua@gmail.com**
 - https://gervisnze.vercel.app/
 - https://x.com/AndjouaNze
   
 
-- 🎵 I love African music
+- 🎵 I love indie rock/alternative music
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
